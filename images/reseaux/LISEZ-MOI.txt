@@ -1,0 +1,3 @@
+Déposez ici les icônes officielles (blanches, en SVG) avec exactement ces noms :
+instagram.svg  tiktok.svg  pinterest.svg  facebook.svg
+Tant qu'un fichier manque, le site affiche le nom en texte à la place.

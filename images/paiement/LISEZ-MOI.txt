@@ -1,0 +1,4 @@
+Déposez ici les logos officiels de paiement, en SVG, avec exactement ces noms :
+visa.svg  mastercard.svg  cb.svg  apple-pay.svg  google-pay.svg  paypal.svg
+Tant qu'un fichier manque, le site affiche le nom en texte à la place.
+Retirez du pied de page les moyens de paiement que vous ne proposez pas.
